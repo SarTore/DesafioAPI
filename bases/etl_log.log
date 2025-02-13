@@ -1,0 +1,698 @@
+2025-02-12 22:12:12,952 - INFO - Iniciando o pipeline ETL de filmes.
+2025-02-12 22:12:12,988 - INFO - Buscando dados para o filme: The Shawshank Redemption
+2025-02-12 22:12:13,357 - INFO - Dados extraídos com sucesso para o filme: The Shawshank Redemption
+2025-02-12 22:12:13,357 - INFO - Transformando dados para o filme: The Shawshank Redemption
+2025-02-12 22:12:13,359 - INFO - Transformação concluída.
+2025-02-12 22:12:13,370 - INFO - Filme 'The Shawshank Redemption' salvo no banco de dados com sucesso.
+2025-02-12 22:12:13,370 - INFO - Filme 'The Shawshank Redemption' processado e salvo com sucesso.
+2025-02-12 22:12:13,370 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:13,370 - INFO - Buscando dados para o filme: The Dark Knight
+2025-02-12 22:12:13,739 - INFO - Dados extraídos com sucesso para o filme: The Dark Knight
+2025-02-12 22:12:13,739 - INFO - Transformando dados para o filme: The Dark Knight
+2025-02-12 22:12:13,739 - INFO - Transformação concluída.
+2025-02-12 22:12:13,750 - INFO - Filme 'The Dark Knight' salvo no banco de dados com sucesso.
+2025-02-12 22:12:13,750 - INFO - Filme 'The Dark Knight' processado e salvo com sucesso.
+2025-02-12 22:12:13,750 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:13,750 - INFO - Buscando dados para o filme: Inception
+2025-02-12 22:12:14,100 - INFO - Dados extraídos com sucesso para o filme: Inception
+2025-02-12 22:12:14,100 - INFO - Transformando dados para o filme: Inception
+2025-02-12 22:12:14,100 - INFO - Transformação concluída.
+2025-02-12 22:12:14,111 - INFO - Filme 'Inception' salvo no banco de dados com sucesso.
+2025-02-12 22:12:14,112 - INFO - Filme 'Inception' processado e salvo com sucesso.
+2025-02-12 22:12:14,112 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:14,112 - INFO - Buscando dados para o filme: Fight Club
+2025-02-12 22:12:14,160 - INFO - Dados extraídos com sucesso para o filme: Fight Club
+2025-02-12 22:12:14,160 - INFO - Transformando dados para o filme: Fight Club
+2025-02-12 22:12:14,160 - INFO - Transformação concluída.
+2025-02-12 22:12:14,169 - INFO - Filme 'Fight Club' salvo no banco de dados com sucesso.
+2025-02-12 22:12:14,169 - INFO - Filme 'Fight Club' processado e salvo com sucesso.
+2025-02-12 22:12:14,169 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:14,169 - INFO - Buscando dados para o filme: Pulp Fiction
+2025-02-12 22:12:14,733 - INFO - Dados extraídos com sucesso para o filme: Pulp Fiction
+2025-02-12 22:12:14,733 - INFO - Transformando dados para o filme: Pulp Fiction
+2025-02-12 22:12:14,734 - INFO - Transformação concluída.
+2025-02-12 22:12:14,745 - INFO - Filme 'Pulp Fiction' salvo no banco de dados com sucesso.
+2025-02-12 22:12:14,745 - INFO - Filme 'Pulp Fiction' processado e salvo com sucesso.
+2025-02-12 22:12:14,745 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:14,745 - INFO - Buscando dados para o filme: The Godfather
+2025-02-12 22:12:14,801 - INFO - Dados extraídos com sucesso para o filme: The Godfather
+2025-02-12 22:12:14,801 - INFO - Transformando dados para o filme: The Godfather
+2025-02-12 22:12:14,801 - INFO - Transformação concluída.
+2025-02-12 22:12:14,811 - INFO - Filme 'The Godfather' salvo no banco de dados com sucesso.
+2025-02-12 22:12:14,811 - INFO - Filme 'The Godfather' processado e salvo com sucesso.
+2025-02-12 22:12:14,811 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:14,811 - INFO - Buscando dados para o filme: Inception
+2025-02-12 22:12:14,852 - INFO - Dados extraídos com sucesso para o filme: Inception
+2025-02-12 22:12:14,852 - INFO - Transformando dados para o filme: Inception
+2025-02-12 22:12:14,852 - INFO - Transformação concluída.
+2025-02-12 22:12:14,853 - INFO - Filme 'Inception' processado e salvo com sucesso.
+2025-02-12 22:12:14,853 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:14,853 - INFO - Buscando dados para o filme: Fight Club
+2025-02-12 22:12:14,898 - INFO - Dados extraídos com sucesso para o filme: Fight Club
+2025-02-12 22:12:14,898 - INFO - Transformando dados para o filme: Fight Club
+2025-02-12 22:12:14,898 - INFO - Transformação concluída.
+2025-02-12 22:12:14,899 - INFO - Filme 'Fight Club' processado e salvo com sucesso.
+2025-02-12 22:12:14,899 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:14,899 - INFO - Buscando dados para o filme: Pulp Fiction
+2025-02-12 22:12:14,972 - INFO - Dados extraídos com sucesso para o filme: Pulp Fiction
+2025-02-12 22:12:14,973 - INFO - Transformando dados para o filme: Pulp Fiction
+2025-02-12 22:12:14,973 - INFO - Transformação concluída.
+2025-02-12 22:12:14,974 - INFO - Filme 'Pulp Fiction' processado e salvo com sucesso.
+2025-02-12 22:12:14,974 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:14,974 - INFO - Buscando dados para o filme: The Godfather
+2025-02-12 22:12:15,035 - INFO - Dados extraídos com sucesso para o filme: The Godfather
+2025-02-12 22:12:15,036 - INFO - Transformando dados para o filme: The Godfather
+2025-02-12 22:12:15,036 - INFO - Transformação concluída.
+2025-02-12 22:12:15,037 - INFO - Filme 'The Godfather' processado e salvo com sucesso.
+2025-02-12 22:12:15,037 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:15,037 - INFO - Buscando dados para o filme: Forrest Gump
+2025-02-12 22:12:15,380 - INFO - Dados extraídos com sucesso para o filme: Forrest Gump
+2025-02-12 22:12:15,381 - INFO - Transformando dados para o filme: Forrest Gump
+2025-02-12 22:12:15,381 - INFO - Transformação concluída.
+2025-02-12 22:12:15,392 - INFO - Filme 'Forrest Gump' salvo no banco de dados com sucesso.
+2025-02-12 22:12:15,393 - INFO - Filme 'Forrest Gump' processado e salvo com sucesso.
+2025-02-12 22:12:15,393 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:15,393 - INFO - Buscando dados para o filme: The Matrix
+2025-02-12 22:12:15,747 - INFO - Dados extraídos com sucesso para o filme: The Matrix
+2025-02-12 22:12:15,747 - INFO - Transformando dados para o filme: The Matrix
+2025-02-12 22:12:15,747 - INFO - Transformação concluída.
+2025-02-12 22:12:15,758 - INFO - Filme 'The Matrix' salvo no banco de dados com sucesso.
+2025-02-12 22:12:15,758 - INFO - Filme 'The Matrix' processado e salvo com sucesso.
+2025-02-12 22:12:15,758 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:15,758 - INFO - Buscando dados para o filme: The Empire Strikes Back
+2025-02-12 22:12:16,115 - INFO - Dados extraídos com sucesso para o filme: The Empire Strikes Back
+2025-02-12 22:12:16,115 - INFO - Transformando dados para o filme: Star Wars: Episode V - The Empire Strikes Back
+2025-02-12 22:12:16,115 - INFO - Transformação concluída.
+2025-02-12 22:12:16,126 - INFO - Filme 'Star Wars: Episode V - The Empire Strikes Back' salvo no banco de dados com sucesso.
+2025-02-12 22:12:16,126 - INFO - Filme 'The Empire Strikes Back' processado e salvo com sucesso.
+2025-02-12 22:12:16,126 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:16,126 - INFO - Buscando dados para o filme: The Lord of the Rings: The Return of the King
+2025-02-12 22:12:16,705 - INFO - Dados extraídos com sucesso para o filme: The Lord of the Rings: The Return of the King
+2025-02-12 22:12:16,706 - INFO - Transformando dados para o filme: The Lord of the Rings: The Return of the King
+2025-02-12 22:12:16,706 - INFO - Transformação concluída.
+2025-02-12 22:12:16,717 - INFO - Filme 'The Lord Of The Rings: The Return Of The King' salvo no banco de dados com sucesso.
+2025-02-12 22:12:16,717 - INFO - Filme 'The Lord of the Rings: The Return of the King' processado e salvo com sucesso.
+2025-02-12 22:12:16,717 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:16,717 - INFO - Buscando dados para o filme: Interstellar
+2025-02-12 22:12:17,065 - INFO - Dados extraídos com sucesso para o filme: Interstellar
+2025-02-12 22:12:17,065 - INFO - Transformando dados para o filme: Interstellar
+2025-02-12 22:12:17,065 - INFO - Transformação concluída.
+2025-02-12 22:12:17,076 - INFO - Filme 'Interstellar' salvo no banco de dados com sucesso.
+2025-02-12 22:12:17,076 - INFO - Filme 'Interstellar' processado e salvo com sucesso.
+2025-02-12 22:12:17,076 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:17,076 - INFO - Buscando dados para o filme: Gladiator
+2025-02-12 22:12:17,415 - INFO - Dados extraídos com sucesso para o filme: Gladiator
+2025-02-12 22:12:17,415 - INFO - Transformando dados para o filme: Gladiator
+2025-02-12 22:12:17,416 - INFO - Transformação concluída.
+2025-02-12 22:12:17,427 - INFO - Filme 'Gladiator' salvo no banco de dados com sucesso.
+2025-02-12 22:12:17,427 - INFO - Filme 'Gladiator' processado e salvo com sucesso.
+2025-02-12 22:12:17,427 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:17,427 - INFO - Buscando dados para o filme: The Prestige
+2025-02-12 22:12:17,786 - INFO - Dados extraídos com sucesso para o filme: The Prestige
+2025-02-12 22:12:17,786 - INFO - Transformando dados para o filme: The Prestige
+2025-02-12 22:12:17,786 - INFO - Transformação concluída.
+2025-02-12 22:12:17,797 - INFO - Filme 'The Prestige' salvo no banco de dados com sucesso.
+2025-02-12 22:12:17,797 - INFO - Filme 'The Prestige' processado e salvo com sucesso.
+2025-02-12 22:12:17,797 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:17,797 - INFO - Buscando dados para o filme: The Godfather: Part II
+2025-02-12 22:12:18,397 - INFO - Dados extraídos com sucesso para o filme: The Godfather: Part II
+2025-02-12 22:12:18,397 - INFO - Transformando dados para o filme: The Godfather Part II
+2025-02-12 22:12:18,397 - INFO - Transformação concluída.
+2025-02-12 22:12:18,408 - INFO - Filme 'The Godfather Part Ii' salvo no banco de dados com sucesso.
+2025-02-12 22:12:18,408 - INFO - Filme 'The Godfather: Part II' processado e salvo com sucesso.
+2025-02-12 22:12:18,408 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:18,408 - INFO - Buscando dados para o filme: Schindler's List
+2025-02-12 22:12:18,774 - INFO - Dados extraídos com sucesso para o filme: Schindler's List
+2025-02-12 22:12:18,775 - INFO - Transformando dados para o filme: Schindler's List
+2025-02-12 22:12:18,775 - INFO - Transformação concluída.
+2025-02-12 22:12:18,786 - INFO - Filme 'Schindler'S List' salvo no banco de dados com sucesso.
+2025-02-12 22:12:18,786 - INFO - Filme 'Schindler's List' processado e salvo com sucesso.
+2025-02-12 22:12:18,786 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:18,786 - INFO - Buscando dados para o filme: The Departed
+2025-02-12 22:12:19,349 - INFO - Dados extraídos com sucesso para o filme: The Departed
+2025-02-12 22:12:19,349 - INFO - Transformando dados para o filme: The Departed
+2025-02-12 22:12:19,349 - INFO - Transformação concluída.
+2025-02-12 22:12:19,359 - INFO - Filme 'The Departed' salvo no banco de dados com sucesso.
+2025-02-12 22:12:19,359 - INFO - Filme 'The Departed' processado e salvo com sucesso.
+2025-02-12 22:12:19,359 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:19,359 - INFO - Buscando dados para o filme: Back to the Future
+2025-02-12 22:12:19,720 - INFO - Dados extraídos com sucesso para o filme: Back to the Future
+2025-02-12 22:12:19,720 - INFO - Transformando dados para o filme: Back to the Future
+2025-02-12 22:12:19,720 - INFO - Transformação concluída.
+2025-02-12 22:12:19,730 - INFO - Filme 'Back To The Future' salvo no banco de dados com sucesso.
+2025-02-12 22:12:19,730 - INFO - Filme 'Back to the Future' processado e salvo com sucesso.
+2025-02-12 22:12:19,730 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:19,731 - INFO - Buscando dados para o filme: The Lion King
+2025-02-12 22:12:20,308 - INFO - Dados extraídos com sucesso para o filme: The Lion King
+2025-02-12 22:12:20,308 - INFO - Transformando dados para o filme: The Lion King
+2025-02-12 22:12:20,308 - INFO - Transformação concluída.
+2025-02-12 22:12:20,317 - INFO - Filme 'The Lion King' salvo no banco de dados com sucesso.
+2025-02-12 22:12:20,317 - INFO - Filme 'The Lion King' processado e salvo com sucesso.
+2025-02-12 22:12:20,317 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:20,317 - INFO - Buscando dados para o filme: Spider-Man: No Way Home
+2025-02-12 22:12:20,679 - INFO - Dados extraídos com sucesso para o filme: Spider-Man: No Way Home
+2025-02-12 22:12:20,679 - INFO - Transformando dados para o filme: Spider-Man: No Way Home
+2025-02-12 22:12:20,679 - INFO - Transformação concluída.
+2025-02-12 22:12:20,689 - INFO - Filme 'Spider-Man: No Way Home' salvo no banco de dados com sucesso.
+2025-02-12 22:12:20,689 - INFO - Filme 'Spider-Man: No Way Home' processado e salvo com sucesso.
+2025-02-12 22:12:20,689 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:20,689 - INFO - Buscando dados para o filme: The Avengers
+2025-02-12 22:12:21,043 - INFO - Dados extraídos com sucesso para o filme: The Avengers
+2025-02-12 22:12:21,043 - INFO - Transformando dados para o filme: The Avengers
+2025-02-12 22:12:21,044 - INFO - Transformação concluída.
+2025-02-12 22:12:21,056 - INFO - Filme 'The Avengers' salvo no banco de dados com sucesso.
+2025-02-12 22:12:21,056 - INFO - Filme 'The Avengers' processado e salvo com sucesso.
+2025-02-12 22:12:21,056 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:21,056 - INFO - Buscando dados para o filme: Titanic
+2025-02-12 22:12:21,402 - INFO - Dados extraídos com sucesso para o filme: Titanic
+2025-02-12 22:12:21,402 - INFO - Transformando dados para o filme: Titanic
+2025-02-12 22:12:21,402 - INFO - Transformação concluída.
+2025-02-12 22:12:21,412 - INFO - Filme 'Titanic' salvo no banco de dados com sucesso.
+2025-02-12 22:12:21,412 - INFO - Filme 'Titanic' processado e salvo com sucesso.
+2025-02-12 22:12:21,412 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:21,412 - INFO - Buscando dados para o filme: Star Wars: A New Hope
+2025-02-12 22:12:22,058 - INFO - Dados extraídos com sucesso para o filme: Star Wars: A New Hope
+2025-02-12 22:12:22,058 - INFO - Transformando dados para o filme: The Ultimate 'Star Wars: A New Hope' Recap Cartoon
+2025-02-12 22:12:22,058 - INFO - Transformação concluída.
+2025-02-12 22:12:22,069 - INFO - Filme 'The Ultimate 'Star Wars: A New Hope' Recap Cartoon' salvo no banco de dados com sucesso.
+2025-02-12 22:12:22,069 - INFO - Filme 'Star Wars: A New Hope' processado e salvo com sucesso.
+2025-02-12 22:12:22,069 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:22,069 - INFO - Buscando dados para o filme: Jurassic Park
+2025-02-12 22:12:22,487 - INFO - Dados extraídos com sucesso para o filme: Jurassic Park
+2025-02-12 22:12:22,487 - INFO - Transformando dados para o filme: Jurassic Park
+2025-02-12 22:12:22,487 - INFO - Transformação concluída.
+2025-02-12 22:12:22,499 - INFO - Filme 'Jurassic Park' salvo no banco de dados com sucesso.
+2025-02-12 22:12:22,499 - INFO - Filme 'Jurassic Park' processado e salvo com sucesso.
+2025-02-12 22:12:22,499 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:22,499 - INFO - Buscando dados para o filme: The Dark Knight Rises
+2025-02-12 22:12:23,059 - INFO - Dados extraídos com sucesso para o filme: The Dark Knight Rises
+2025-02-12 22:12:23,060 - INFO - Transformando dados para o filme: The Dark Knight Rises
+2025-02-12 22:12:23,060 - INFO - Transformação concluída.
+2025-02-12 22:12:23,069 - INFO - Filme 'The Dark Knight Rises' salvo no banco de dados com sucesso.
+2025-02-12 22:12:23,069 - INFO - Filme 'The Dark Knight Rises' processado e salvo com sucesso.
+2025-02-12 22:12:23,069 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:23,069 - INFO - Buscando dados para o filme: The Silence of the Lambs
+2025-02-12 22:12:23,435 - INFO - Dados extraídos com sucesso para o filme: The Silence of the Lambs
+2025-02-12 22:12:23,435 - INFO - Transformando dados para o filme: The Silence of the Lambs
+2025-02-12 22:12:23,435 - INFO - Transformação concluída.
+2025-02-12 22:12:23,445 - INFO - Filme 'The Silence Of The Lambs' salvo no banco de dados com sucesso.
+2025-02-12 22:12:23,445 - INFO - Filme 'The Silence of the Lambs' processado e salvo com sucesso.
+2025-02-12 22:12:23,445 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:23,445 - INFO - Buscando dados para o filme: Saving Private Ryan
+2025-02-12 22:12:23,797 - INFO - Dados extraídos com sucesso para o filme: Saving Private Ryan
+2025-02-12 22:12:23,797 - INFO - Transformando dados para o filme: Saving Private Ryan
+2025-02-12 22:12:23,797 - INFO - Transformação concluída.
+2025-02-12 22:12:23,808 - INFO - Filme 'Saving Private Ryan' salvo no banco de dados com sucesso.
+2025-02-12 22:12:23,808 - INFO - Filme 'Saving Private Ryan' processado e salvo com sucesso.
+2025-02-12 22:12:23,808 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:23,808 - INFO - Buscando dados para o filme: Se7en
+2025-02-12 22:12:24,152 - INFO - Dados extraídos com sucesso para o filme: Se7en
+2025-02-12 22:12:24,152 - INFO - Transformando dados para o filme: Se7en
+2025-02-12 22:12:24,152 - INFO - Transformação concluída.
+2025-02-12 22:12:24,162 - INFO - Filme 'Se7En' salvo no banco de dados com sucesso.
+2025-02-12 22:12:24,162 - INFO - Filme 'Se7en' processado e salvo com sucesso.
+2025-02-12 22:12:24,163 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:24,163 - INFO - Buscando dados para o filme: Goodfellas
+2025-02-12 22:12:24,532 - INFO - Dados extraídos com sucesso para o filme: Goodfellas
+2025-02-12 22:12:24,532 - INFO - Transformando dados para o filme: Goodfellas
+2025-02-12 22:12:24,532 - INFO - Transformação concluída.
+2025-02-12 22:12:24,543 - INFO - Filme 'Goodfellas' salvo no banco de dados com sucesso.
+2025-02-12 22:12:24,543 - INFO - Filme 'Goodfellas' processado e salvo com sucesso.
+2025-02-12 22:12:24,543 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:24,543 - INFO - Buscando dados para o filme: The Usual Suspects
+2025-02-12 22:12:25,188 - INFO - Dados extraídos com sucesso para o filme: The Usual Suspects
+2025-02-12 22:12:25,188 - INFO - Transformando dados para o filme: The Usual Suspects
+2025-02-12 22:12:25,188 - INFO - Transformação concluída.
+2025-02-12 22:12:25,199 - INFO - Filme 'The Usual Suspects' salvo no banco de dados com sucesso.
+2025-02-12 22:12:25,199 - INFO - Filme 'The Usual Suspects' processado e salvo com sucesso.
+2025-02-12 22:12:25,199 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:25,199 - INFO - Buscando dados para o filme: Braveheart
+2025-02-12 22:12:25,751 - INFO - Dados extraídos com sucesso para o filme: Braveheart
+2025-02-12 22:12:25,751 - INFO - Transformando dados para o filme: Braveheart
+2025-02-12 22:12:25,751 - INFO - Transformação concluída.
+2025-02-12 22:12:25,761 - INFO - Filme 'Braveheart' salvo no banco de dados com sucesso.
+2025-02-12 22:12:25,761 - INFO - Filme 'Braveheart' processado e salvo com sucesso.
+2025-02-12 22:12:25,761 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:25,761 - INFO - Buscando dados para o filme: The Shining
+2025-02-12 22:12:26,348 - INFO - Dados extraídos com sucesso para o filme: The Shining
+2025-02-12 22:12:26,348 - INFO - Transformando dados para o filme: The Shining
+2025-02-12 22:12:26,348 - INFO - Transformação concluída.
+2025-02-12 22:12:26,359 - INFO - Filme 'The Shining' salvo no banco de dados com sucesso.
+2025-02-12 22:12:26,359 - INFO - Filme 'The Shining' processado e salvo com sucesso.
+2025-02-12 22:12:26,359 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:26,359 - INFO - Buscando dados para o filme: The Green Mile
+2025-02-12 22:12:26,947 - INFO - Dados extraídos com sucesso para o filme: The Green Mile
+2025-02-12 22:12:26,948 - INFO - Transformando dados para o filme: The Green Mile
+2025-02-12 22:12:26,948 - INFO - Transformação concluída.
+2025-02-12 22:12:26,959 - INFO - Filme 'The Green Mile' salvo no banco de dados com sucesso.
+2025-02-12 22:12:26,959 - INFO - Filme 'The Green Mile' processado e salvo com sucesso.
+2025-02-12 22:12:26,960 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:26,960 - INFO - Buscando dados para o filme: The Social Network
+2025-02-12 22:12:27,231 - INFO - Dados extraídos com sucesso para o filme: The Social Network
+2025-02-12 22:12:27,232 - INFO - Transformando dados para o filme: The Social Network
+2025-02-12 22:12:27,232 - INFO - Transformação concluída.
+2025-02-12 22:12:27,242 - INFO - Filme 'The Social Network' salvo no banco de dados com sucesso.
+2025-02-12 22:12:27,243 - INFO - Filme 'The Social Network' processado e salvo com sucesso.
+2025-02-12 22:12:27,243 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:27,243 - INFO - Buscando dados para o filme: The Wolf of Wall Street
+2025-02-12 22:12:27,842 - INFO - Dados extraídos com sucesso para o filme: The Wolf of Wall Street
+2025-02-12 22:12:27,842 - INFO - Transformando dados para o filme: The Wolf of Wall Street
+2025-02-12 22:12:27,842 - INFO - Transformação concluída.
+2025-02-12 22:12:27,852 - INFO - Filme 'The Wolf Of Wall Street' salvo no banco de dados com sucesso.
+2025-02-12 22:12:27,852 - INFO - Filme 'The Wolf of Wall Street' processado e salvo com sucesso.
+2025-02-12 22:12:27,852 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:27,852 - INFO - Buscando dados para o filme: The Hunger Games
+2025-02-12 22:12:28,204 - INFO - Dados extraídos com sucesso para o filme: The Hunger Games
+2025-02-12 22:12:28,204 - INFO - Transformando dados para o filme: The Hunger Games
+2025-02-12 22:12:28,204 - INFO - Transformação concluída.
+2025-02-12 22:12:28,214 - INFO - Filme 'The Hunger Games' salvo no banco de dados com sucesso.
+2025-02-12 22:12:28,214 - INFO - Filme 'The Hunger Games' processado e salvo com sucesso.
+2025-02-12 22:12:28,214 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:28,214 - INFO - Buscando dados para o filme: Avatar
+2025-02-12 22:12:28,784 - INFO - Dados extraídos com sucesso para o filme: Avatar
+2025-02-12 22:12:28,784 - INFO - Transformando dados para o filme: Avatar
+2025-02-12 22:12:28,784 - INFO - Transformação concluída.
+2025-02-12 22:12:28,795 - INFO - Filme 'Avatar' salvo no banco de dados com sucesso.
+2025-02-12 22:12:28,795 - INFO - Filme 'Avatar' processado e salvo com sucesso.
+2025-02-12 22:12:28,795 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:28,795 - INFO - Buscando dados para o filme: Jaws
+2025-02-12 22:12:29,355 - INFO - Dados extraídos com sucesso para o filme: Jaws
+2025-02-12 22:12:29,355 - INFO - Transformando dados para o filme: Jaws
+2025-02-12 22:12:29,355 - INFO - Transformação concluída.
+2025-02-12 22:12:29,366 - INFO - Filme 'Jaws' salvo no banco de dados com sucesso.
+2025-02-12 22:12:29,366 - INFO - Filme 'Jaws' processado e salvo com sucesso.
+2025-02-12 22:12:29,366 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:29,366 - INFO - Buscando dados para o filme: Blade Runner
+2025-02-12 22:12:29,924 - INFO - Dados extraídos com sucesso para o filme: Blade Runner
+2025-02-12 22:12:29,924 - INFO - Transformando dados para o filme: Blade Runner
+2025-02-12 22:12:29,925 - INFO - Transformação concluída.
+2025-02-12 22:12:29,935 - INFO - Filme 'Blade Runner' salvo no banco de dados com sucesso.
+2025-02-12 22:12:29,935 - INFO - Filme 'Blade Runner' processado e salvo com sucesso.
+2025-02-12 22:12:29,935 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:29,935 - INFO - Buscando dados para o filme: 12 Angry Men
+2025-02-12 22:12:30,288 - INFO - Dados extraídos com sucesso para o filme: 12 Angry Men
+2025-02-12 22:12:30,288 - INFO - Transformando dados para o filme: 12 Angry Men
+2025-02-12 22:12:30,289 - INFO - Transformação concluída.
+2025-02-12 22:12:30,298 - INFO - Filme '12 Angry Men' salvo no banco de dados com sucesso.
+2025-02-12 22:12:30,298 - INFO - Filme '12 Angry Men' processado e salvo com sucesso.
+2025-02-12 22:12:30,298 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:30,298 - INFO - Buscando dados para o filme: The Matrix Reloaded
+2025-02-12 22:12:30,859 - INFO - Dados extraídos com sucesso para o filme: The Matrix Reloaded
+2025-02-12 22:12:30,859 - INFO - Transformando dados para o filme: The Matrix Reloaded
+2025-02-12 22:12:30,859 - INFO - Transformação concluída.
+2025-02-12 22:12:30,869 - INFO - Filme 'The Matrix Reloaded' salvo no banco de dados com sucesso.
+2025-02-12 22:12:30,869 - INFO - Filme 'The Matrix Reloaded' processado e salvo com sucesso.
+2025-02-12 22:12:30,869 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:30,869 - INFO - Buscando dados para o filme: The Truman Show
+2025-02-12 22:12:31,218 - INFO - Dados extraídos com sucesso para o filme: The Truman Show
+2025-02-12 22:12:31,218 - INFO - Transformando dados para o filme: The Truman Show
+2025-02-12 22:12:31,218 - INFO - Transformação concluída.
+2025-02-12 22:12:31,229 - INFO - Filme 'The Truman Show' salvo no banco de dados com sucesso.
+2025-02-12 22:12:31,229 - INFO - Filme 'The Truman Show' processado e salvo com sucesso.
+2025-02-12 22:12:31,229 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:31,229 - INFO - Buscando dados para o filme: The Godfather: Part III
+2025-02-12 22:12:31,587 - INFO - Dados extraídos com sucesso para o filme: The Godfather: Part III
+2025-02-12 22:12:31,587 - INFO - Transformando dados para o filme: The Godfather Part III
+2025-02-12 22:12:31,587 - INFO - Transformação concluída.
+2025-02-12 22:12:31,597 - INFO - Filme 'The Godfather Part Iii' salvo no banco de dados com sucesso.
+2025-02-12 22:12:31,597 - INFO - Filme 'The Godfather: Part III' processado e salvo com sucesso.
+2025-02-12 22:12:31,597 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:31,597 - INFO - Buscando dados para o filme: The Big Lebowski
+2025-02-12 22:12:31,980 - INFO - Dados extraídos com sucesso para o filme: The Big Lebowski
+2025-02-12 22:12:31,981 - INFO - Transformando dados para o filme: The Big Lebowski
+2025-02-12 22:12:31,981 - INFO - Transformação concluída.
+2025-02-12 22:12:31,990 - INFO - Filme 'The Big Lebowski' salvo no banco de dados com sucesso.
+2025-02-12 22:12:31,991 - INFO - Filme 'The Big Lebowski' processado e salvo com sucesso.
+2025-02-12 22:12:31,991 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:31,991 - INFO - Buscando dados para o filme: A Clockwork Orange
+2025-02-12 22:12:32,544 - INFO - Dados extraídos com sucesso para o filme: A Clockwork Orange
+2025-02-12 22:12:32,544 - INFO - Transformando dados para o filme: A Clockwork Orange
+2025-02-12 22:12:32,544 - INFO - Transformação concluída.
+2025-02-12 22:12:32,554 - INFO - Filme 'A Clockwork Orange' salvo no banco de dados com sucesso.
+2025-02-12 22:12:32,554 - INFO - Filme 'A Clockwork Orange' processado e salvo com sucesso.
+2025-02-12 22:12:32,554 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:32,554 - INFO - Buscando dados para o filme: Gone with the Wind
+2025-02-12 22:12:33,130 - INFO - Dados extraídos com sucesso para o filme: Gone with the Wind
+2025-02-12 22:12:33,130 - INFO - Transformando dados para o filme: Gone with the Wind
+2025-02-12 22:12:33,130 - INFO - Transformação concluída.
+2025-02-12 22:12:33,140 - INFO - Filme 'Gone With The Wind' salvo no banco de dados com sucesso.
+2025-02-12 22:12:33,140 - INFO - Filme 'Gone with the Wind' processado e salvo com sucesso.
+2025-02-12 22:12:33,140 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:33,140 - INFO - Buscando dados para o filme: The Princess Bride
+2025-02-12 22:12:33,341 - INFO - Dados extraídos com sucesso para o filme: The Princess Bride
+2025-02-12 22:12:33,341 - INFO - Transformando dados para o filme: The Princess Bride
+2025-02-12 22:12:33,341 - INFO - Transformação concluída.
+2025-02-12 22:12:33,353 - INFO - Filme 'The Princess Bride' salvo no banco de dados com sucesso.
+2025-02-12 22:12:33,353 - INFO - Filme 'The Princess Bride' processado e salvo com sucesso.
+2025-02-12 22:12:33,353 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:33,354 - INFO - Buscando dados para o filme: The Breakfast Club
+2025-02-12 22:12:34,042 - INFO - Dados extraídos com sucesso para o filme: The Breakfast Club
+2025-02-12 22:12:34,042 - INFO - Transformando dados para o filme: The Breakfast Club
+2025-02-12 22:12:34,042 - INFO - Transformação concluída.
+2025-02-12 22:12:34,053 - INFO - Filme 'The Breakfast Club' salvo no banco de dados com sucesso.
+2025-02-12 22:12:34,053 - INFO - Filme 'The Breakfast Club' processado e salvo com sucesso.
+2025-02-12 22:12:34,053 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:34,053 - INFO - Buscando dados para o filme: The Grand Budapest Hotel
+2025-02-12 22:12:34,430 - INFO - Dados extraídos com sucesso para o filme: The Grand Budapest Hotel
+2025-02-12 22:12:34,430 - INFO - Transformando dados para o filme: The Grand Budapest Hotel
+2025-02-12 22:12:34,430 - INFO - Transformação concluída.
+2025-02-12 22:12:34,441 - INFO - Filme 'The Grand Budapest Hotel' salvo no banco de dados com sucesso.
+2025-02-12 22:12:34,441 - INFO - Filme 'The Grand Budapest Hotel' processado e salvo com sucesso.
+2025-02-12 22:12:34,441 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:34,441 - INFO - Buscando dados para o filme: Mad Max: Fury Road
+2025-02-12 22:12:34,803 - INFO - Dados extraídos com sucesso para o filme: Mad Max: Fury Road
+2025-02-12 22:12:34,803 - INFO - Transformando dados para o filme: Mad Max: Fury Road
+2025-02-12 22:12:34,804 - INFO - Transformação concluída.
+2025-02-12 22:12:34,814 - INFO - Filme 'Mad Max: Fury Road' salvo no banco de dados com sucesso.
+2025-02-12 22:12:34,814 - INFO - Filme 'Mad Max: Fury Road' processado e salvo com sucesso.
+2025-02-12 22:12:34,814 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:12:34,814 - INFO - Buscando dados para o filme: The Terminator
+2025-02-12 22:12:35,386 - INFO - Dados extraídos com sucesso para o filme: The Terminator
+2025-02-12 22:12:35,386 - INFO - Transformando dados para o filme: The Terminator
+2025-02-12 22:12:35,386 - INFO - Transformação concluída.
+2025-02-12 22:12:35,396 - INFO - Filme 'The Terminator' salvo no banco de dados com sucesso.
+2025-02-12 22:12:35,396 - INFO - Filme 'The Terminator' processado e salvo com sucesso.
+2025-02-12 22:12:35,396 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,149 - INFO - Iniciando o pipeline ETL de filmes.
+2025-02-12 22:19:50,151 - INFO - Buscando dados para o filme: The Shawshank Redemption
+2025-02-12 22:19:50,272 - INFO - Dados extraídos com sucesso para o filme: The Shawshank Redemption
+2025-02-12 22:19:50,273 - INFO - Transformando dados para o filme: The Shawshank Redemption
+2025-02-12 22:19:50,275 - INFO - Transformação concluída.
+2025-02-12 22:19:50,276 - INFO - Filme 'The Shawshank Redemption' processado e salvo com sucesso.
+2025-02-12 22:19:50,276 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,276 - INFO - Buscando dados para o filme: The Dark Knight
+2025-02-12 22:19:50,337 - INFO - Dados extraídos com sucesso para o filme: The Dark Knight
+2025-02-12 22:19:50,338 - INFO - Transformando dados para o filme: The Dark Knight
+2025-02-12 22:19:50,338 - INFO - Transformação concluída.
+2025-02-12 22:19:50,339 - INFO - Filme 'The Dark Knight' processado e salvo com sucesso.
+2025-02-12 22:19:50,339 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,339 - INFO - Buscando dados para o filme: Inception
+2025-02-12 22:19:50,388 - INFO - Dados extraídos com sucesso para o filme: Inception
+2025-02-12 22:19:50,388 - INFO - Transformando dados para o filme: Inception
+2025-02-12 22:19:50,388 - INFO - Transformação concluída.
+2025-02-12 22:19:50,388 - INFO - Filme 'Inception' processado e salvo com sucesso.
+2025-02-12 22:19:50,388 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,388 - INFO - Buscando dados para o filme: Fight Club
+2025-02-12 22:19:50,443 - INFO - Dados extraídos com sucesso para o filme: Fight Club
+2025-02-12 22:19:50,443 - INFO - Transformando dados para o filme: Fight Club
+2025-02-12 22:19:50,443 - INFO - Transformação concluída.
+2025-02-12 22:19:50,444 - INFO - Filme 'Fight Club' processado e salvo com sucesso.
+2025-02-12 22:19:50,444 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,444 - INFO - Buscando dados para o filme: Pulp Fiction
+2025-02-12 22:19:50,491 - INFO - Dados extraídos com sucesso para o filme: Pulp Fiction
+2025-02-12 22:19:50,491 - INFO - Transformando dados para o filme: Pulp Fiction
+2025-02-12 22:19:50,491 - INFO - Transformação concluída.
+2025-02-12 22:19:50,492 - INFO - Filme 'Pulp Fiction' processado e salvo com sucesso.
+2025-02-12 22:19:50,492 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,492 - INFO - Buscando dados para o filme: The Godfather
+2025-02-12 22:19:50,539 - INFO - Dados extraídos com sucesso para o filme: The Godfather
+2025-02-12 22:19:50,539 - INFO - Transformando dados para o filme: The Godfather
+2025-02-12 22:19:50,539 - INFO - Transformação concluída.
+2025-02-12 22:19:50,540 - INFO - Filme 'The Godfather' processado e salvo com sucesso.
+2025-02-12 22:19:50,540 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,540 - INFO - Buscando dados para o filme: Inception
+2025-02-12 22:19:50,600 - INFO - Dados extraídos com sucesso para o filme: Inception
+2025-02-12 22:19:50,600 - INFO - Transformando dados para o filme: Inception
+2025-02-12 22:19:50,600 - INFO - Transformação concluída.
+2025-02-12 22:19:50,601 - INFO - Filme 'Inception' processado e salvo com sucesso.
+2025-02-12 22:19:50,601 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,601 - INFO - Buscando dados para o filme: Fight Club
+2025-02-12 22:19:50,643 - INFO - Dados extraídos com sucesso para o filme: Fight Club
+2025-02-12 22:19:50,644 - INFO - Transformando dados para o filme: Fight Club
+2025-02-12 22:19:50,644 - INFO - Transformação concluída.
+2025-02-12 22:19:50,644 - INFO - Filme 'Fight Club' processado e salvo com sucesso.
+2025-02-12 22:19:50,644 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,644 - INFO - Buscando dados para o filme: Pulp Fiction
+2025-02-12 22:19:50,725 - INFO - Dados extraídos com sucesso para o filme: Pulp Fiction
+2025-02-12 22:19:50,726 - INFO - Transformando dados para o filme: Pulp Fiction
+2025-02-12 22:19:50,726 - INFO - Transformação concluída.
+2025-02-12 22:19:50,726 - INFO - Filme 'Pulp Fiction' processado e salvo com sucesso.
+2025-02-12 22:19:50,727 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,727 - INFO - Buscando dados para o filme: The Godfather
+2025-02-12 22:19:50,778 - INFO - Dados extraídos com sucesso para o filme: The Godfather
+2025-02-12 22:19:50,779 - INFO - Transformando dados para o filme: The Godfather
+2025-02-12 22:19:50,779 - INFO - Transformação concluída.
+2025-02-12 22:19:50,779 - INFO - Filme 'The Godfather' processado e salvo com sucesso.
+2025-02-12 22:19:50,779 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,779 - INFO - Buscando dados para o filme: Forrest Gump
+2025-02-12 22:19:50,824 - INFO - Dados extraídos com sucesso para o filme: Forrest Gump
+2025-02-12 22:19:50,824 - INFO - Transformando dados para o filme: Forrest Gump
+2025-02-12 22:19:50,824 - INFO - Transformação concluída.
+2025-02-12 22:19:50,825 - INFO - Filme 'Forrest Gump' processado e salvo com sucesso.
+2025-02-12 22:19:50,825 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,825 - INFO - Buscando dados para o filme: The Matrix
+2025-02-12 22:19:50,872 - INFO - Dados extraídos com sucesso para o filme: The Matrix
+2025-02-12 22:19:50,872 - INFO - Transformando dados para o filme: The Matrix
+2025-02-12 22:19:50,872 - INFO - Transformação concluída.
+2025-02-12 22:19:50,873 - INFO - Filme 'The Matrix' processado e salvo com sucesso.
+2025-02-12 22:19:50,873 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,873 - INFO - Buscando dados para o filme: The Empire Strikes Back
+2025-02-12 22:19:50,923 - INFO - Dados extraídos com sucesso para o filme: The Empire Strikes Back
+2025-02-12 22:19:50,923 - INFO - Transformando dados para o filme: Star Wars: Episode V - The Empire Strikes Back
+2025-02-12 22:19:50,923 - INFO - Transformação concluída.
+2025-02-12 22:19:50,924 - INFO - Filme 'The Empire Strikes Back' processado e salvo com sucesso.
+2025-02-12 22:19:50,924 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,924 - INFO - Buscando dados para o filme: The Lord of the Rings: The Return of the King
+2025-02-12 22:19:50,998 - INFO - Dados extraídos com sucesso para o filme: The Lord of the Rings: The Return of the King
+2025-02-12 22:19:50,998 - INFO - Transformando dados para o filme: The Lord of the Rings: The Return of the King
+2025-02-12 22:19:50,998 - INFO - Transformação concluída.
+2025-02-12 22:19:50,999 - INFO - Filme 'The Lord of the Rings: The Return of the King' processado e salvo com sucesso.
+2025-02-12 22:19:50,999 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:50,999 - INFO - Buscando dados para o filme: Interstellar
+2025-02-12 22:19:51,081 - INFO - Dados extraídos com sucesso para o filme: Interstellar
+2025-02-12 22:19:51,081 - INFO - Transformando dados para o filme: Interstellar
+2025-02-12 22:19:51,081 - INFO - Transformação concluída.
+2025-02-12 22:19:51,082 - INFO - Filme 'Interstellar' processado e salvo com sucesso.
+2025-02-12 22:19:51,082 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,082 - INFO - Buscando dados para o filme: Gladiator
+2025-02-12 22:19:51,125 - INFO - Dados extraídos com sucesso para o filme: Gladiator
+2025-02-12 22:19:51,125 - INFO - Transformando dados para o filme: Gladiator
+2025-02-12 22:19:51,125 - INFO - Transformação concluída.
+2025-02-12 22:19:51,126 - INFO - Filme 'Gladiator' processado e salvo com sucesso.
+2025-02-12 22:19:51,126 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,126 - INFO - Buscando dados para o filme: The Prestige
+2025-02-12 22:19:51,187 - INFO - Dados extraídos com sucesso para o filme: The Prestige
+2025-02-12 22:19:51,187 - INFO - Transformando dados para o filme: The Prestige
+2025-02-12 22:19:51,187 - INFO - Transformação concluída.
+2025-02-12 22:19:51,188 - INFO - Filme 'The Prestige' processado e salvo com sucesso.
+2025-02-12 22:19:51,188 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,188 - INFO - Buscando dados para o filme: The Godfather: Part II
+2025-02-12 22:19:51,232 - INFO - Dados extraídos com sucesso para o filme: The Godfather: Part II
+2025-02-12 22:19:51,232 - INFO - Transformando dados para o filme: The Godfather Part II
+2025-02-12 22:19:51,232 - INFO - Transformação concluída.
+2025-02-12 22:19:51,233 - INFO - Filme 'The Godfather: Part II' processado e salvo com sucesso.
+2025-02-12 22:19:51,233 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,233 - INFO - Buscando dados para o filme: Schindler's List
+2025-02-12 22:19:51,278 - INFO - Dados extraídos com sucesso para o filme: Schindler's List
+2025-02-12 22:19:51,278 - INFO - Transformando dados para o filme: Schindler's List
+2025-02-12 22:19:51,278 - INFO - Transformação concluída.
+2025-02-12 22:19:51,279 - INFO - Filme 'Schindler's List' processado e salvo com sucesso.
+2025-02-12 22:19:51,279 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,279 - INFO - Buscando dados para o filme: The Departed
+2025-02-12 22:19:51,435 - INFO - Dados extraídos com sucesso para o filme: The Departed
+2025-02-12 22:19:51,435 - INFO - Transformando dados para o filme: The Departed
+2025-02-12 22:19:51,435 - INFO - Transformação concluída.
+2025-02-12 22:19:51,436 - INFO - Filme 'The Departed' processado e salvo com sucesso.
+2025-02-12 22:19:51,436 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,436 - INFO - Buscando dados para o filme: Back to the Future
+2025-02-12 22:19:51,473 - INFO - Dados extraídos com sucesso para o filme: Back to the Future
+2025-02-12 22:19:51,474 - INFO - Transformando dados para o filme: Back to the Future
+2025-02-12 22:19:51,474 - INFO - Transformação concluída.
+2025-02-12 22:19:51,475 - INFO - Filme 'Back to the Future' processado e salvo com sucesso.
+2025-02-12 22:19:51,475 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,475 - INFO - Buscando dados para o filme: The Lion King
+2025-02-12 22:19:51,530 - INFO - Dados extraídos com sucesso para o filme: The Lion King
+2025-02-12 22:19:51,530 - INFO - Transformando dados para o filme: The Lion King
+2025-02-12 22:19:51,530 - INFO - Transformação concluída.
+2025-02-12 22:19:51,531 - INFO - Filme 'The Lion King' processado e salvo com sucesso.
+2025-02-12 22:19:51,531 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,531 - INFO - Buscando dados para o filme: Spider-Man: No Way Home
+2025-02-12 22:19:51,580 - INFO - Dados extraídos com sucesso para o filme: Spider-Man: No Way Home
+2025-02-12 22:19:51,580 - INFO - Transformando dados para o filme: Spider-Man: No Way Home
+2025-02-12 22:19:51,580 - INFO - Transformação concluída.
+2025-02-12 22:19:51,581 - INFO - Filme 'Spider-Man: No Way Home' processado e salvo com sucesso.
+2025-02-12 22:19:51,581 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,581 - INFO - Buscando dados para o filme: The Avengers
+2025-02-12 22:19:51,630 - INFO - Dados extraídos com sucesso para o filme: The Avengers
+2025-02-12 22:19:51,630 - INFO - Transformando dados para o filme: The Avengers
+2025-02-12 22:19:51,630 - INFO - Transformação concluída.
+2025-02-12 22:19:51,631 - INFO - Filme 'The Avengers' processado e salvo com sucesso.
+2025-02-12 22:19:51,631 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,631 - INFO - Buscando dados para o filme: Titanic
+2025-02-12 22:19:51,676 - INFO - Dados extraídos com sucesso para o filme: Titanic
+2025-02-12 22:19:51,676 - INFO - Transformando dados para o filme: Titanic
+2025-02-12 22:19:51,676 - INFO - Transformação concluída.
+2025-02-12 22:19:51,677 - INFO - Filme 'Titanic' processado e salvo com sucesso.
+2025-02-12 22:19:51,677 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,677 - INFO - Buscando dados para o filme: Star Wars: A New Hope
+2025-02-12 22:19:51,732 - INFO - Dados extraídos com sucesso para o filme: Star Wars: A New Hope
+2025-02-12 22:19:51,732 - INFO - Transformando dados para o filme: The Ultimate 'Star Wars: A New Hope' Recap Cartoon
+2025-02-12 22:19:51,732 - INFO - Transformação concluída.
+2025-02-12 22:19:51,733 - INFO - Filme 'Star Wars: A New Hope' processado e salvo com sucesso.
+2025-02-12 22:19:51,733 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,733 - INFO - Buscando dados para o filme: Jurassic Park
+2025-02-12 22:19:51,784 - INFO - Dados extraídos com sucesso para o filme: Jurassic Park
+2025-02-12 22:19:51,785 - INFO - Transformando dados para o filme: Jurassic Park
+2025-02-12 22:19:51,785 - INFO - Transformação concluída.
+2025-02-12 22:19:51,785 - INFO - Filme 'Jurassic Park' processado e salvo com sucesso.
+2025-02-12 22:19:51,786 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,786 - INFO - Buscando dados para o filme: The Dark Knight Rises
+2025-02-12 22:19:51,840 - INFO - Dados extraídos com sucesso para o filme: The Dark Knight Rises
+2025-02-12 22:19:51,840 - INFO - Transformando dados para o filme: The Dark Knight Rises
+2025-02-12 22:19:51,840 - INFO - Transformação concluída.
+2025-02-12 22:19:51,841 - INFO - Filme 'The Dark Knight Rises' processado e salvo com sucesso.
+2025-02-12 22:19:51,842 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,842 - INFO - Buscando dados para o filme: The Silence of the Lambs
+2025-02-12 22:19:51,885 - INFO - Dados extraídos com sucesso para o filme: The Silence of the Lambs
+2025-02-12 22:19:51,885 - INFO - Transformando dados para o filme: The Silence of the Lambs
+2025-02-12 22:19:51,885 - INFO - Transformação concluída.
+2025-02-12 22:19:51,886 - INFO - Filme 'The Silence of the Lambs' processado e salvo com sucesso.
+2025-02-12 22:19:51,886 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,886 - INFO - Buscando dados para o filme: Saving Private Ryan
+2025-02-12 22:19:51,924 - INFO - Dados extraídos com sucesso para o filme: Saving Private Ryan
+2025-02-12 22:19:51,924 - INFO - Transformando dados para o filme: Saving Private Ryan
+2025-02-12 22:19:51,924 - INFO - Transformação concluída.
+2025-02-12 22:19:51,925 - INFO - Filme 'Saving Private Ryan' processado e salvo com sucesso.
+2025-02-12 22:19:51,925 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,925 - INFO - Buscando dados para o filme: Se7en
+2025-02-12 22:19:51,966 - INFO - Dados extraídos com sucesso para o filme: Se7en
+2025-02-12 22:19:51,966 - INFO - Transformando dados para o filme: Se7en
+2025-02-12 22:19:51,966 - INFO - Transformação concluída.
+2025-02-12 22:19:51,967 - INFO - Filme 'Se7en' processado e salvo com sucesso.
+2025-02-12 22:19:51,967 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:51,967 - INFO - Buscando dados para o filme: Goodfellas
+2025-02-12 22:19:52,016 - INFO - Dados extraídos com sucesso para o filme: Goodfellas
+2025-02-12 22:19:52,016 - INFO - Transformando dados para o filme: Goodfellas
+2025-02-12 22:19:52,016 - INFO - Transformação concluída.
+2025-02-12 22:19:52,017 - INFO - Filme 'Goodfellas' processado e salvo com sucesso.
+2025-02-12 22:19:52,017 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,017 - INFO - Buscando dados para o filme: The Usual Suspects
+2025-02-12 22:19:52,068 - INFO - Dados extraídos com sucesso para o filme: The Usual Suspects
+2025-02-12 22:19:52,069 - INFO - Transformando dados para o filme: The Usual Suspects
+2025-02-12 22:19:52,069 - INFO - Transformação concluída.
+2025-02-12 22:19:52,069 - INFO - Filme 'The Usual Suspects' processado e salvo com sucesso.
+2025-02-12 22:19:52,069 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,070 - INFO - Buscando dados para o filme: Braveheart
+2025-02-12 22:19:52,119 - INFO - Dados extraídos com sucesso para o filme: Braveheart
+2025-02-12 22:19:52,119 - INFO - Transformando dados para o filme: Braveheart
+2025-02-12 22:19:52,120 - INFO - Transformação concluída.
+2025-02-12 22:19:52,120 - INFO - Filme 'Braveheart' processado e salvo com sucesso.
+2025-02-12 22:19:52,120 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,120 - INFO - Buscando dados para o filme: The Shining
+2025-02-12 22:19:52,229 - INFO - Dados extraídos com sucesso para o filme: The Shining
+2025-02-12 22:19:52,229 - INFO - Transformando dados para o filme: The Shining
+2025-02-12 22:19:52,229 - INFO - Transformação concluída.
+2025-02-12 22:19:52,230 - INFO - Filme 'The Shining' processado e salvo com sucesso.
+2025-02-12 22:19:52,230 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,230 - INFO - Buscando dados para o filme: The Green Mile
+2025-02-12 22:19:52,280 - INFO - Dados extraídos com sucesso para o filme: The Green Mile
+2025-02-12 22:19:52,281 - INFO - Transformando dados para o filme: The Green Mile
+2025-02-12 22:19:52,281 - INFO - Transformação concluída.
+2025-02-12 22:19:52,281 - INFO - Filme 'The Green Mile' processado e salvo com sucesso.
+2025-02-12 22:19:52,281 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,282 - INFO - Buscando dados para o filme: The Social Network
+2025-02-12 22:19:52,320 - INFO - Dados extraídos com sucesso para o filme: The Social Network
+2025-02-12 22:19:52,320 - INFO - Transformando dados para o filme: The Social Network
+2025-02-12 22:19:52,320 - INFO - Transformação concluída.
+2025-02-12 22:19:52,321 - INFO - Filme 'The Social Network' processado e salvo com sucesso.
+2025-02-12 22:19:52,321 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,321 - INFO - Buscando dados para o filme: The Wolf of Wall Street
+2025-02-12 22:19:52,386 - INFO - Dados extraídos com sucesso para o filme: The Wolf of Wall Street
+2025-02-12 22:19:52,386 - INFO - Transformando dados para o filme: The Wolf of Wall Street
+2025-02-12 22:19:52,386 - INFO - Transformação concluída.
+2025-02-12 22:19:52,387 - INFO - Filme 'The Wolf of Wall Street' processado e salvo com sucesso.
+2025-02-12 22:19:52,387 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,387 - INFO - Buscando dados para o filme: The Hunger Games
+2025-02-12 22:19:52,445 - INFO - Dados extraídos com sucesso para o filme: The Hunger Games
+2025-02-12 22:19:52,446 - INFO - Transformando dados para o filme: The Hunger Games
+2025-02-12 22:19:52,446 - INFO - Transformação concluída.
+2025-02-12 22:19:52,446 - INFO - Filme 'The Hunger Games' processado e salvo com sucesso.
+2025-02-12 22:19:52,447 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,447 - INFO - Buscando dados para o filme: Avatar
+2025-02-12 22:19:52,494 - INFO - Dados extraídos com sucesso para o filme: Avatar
+2025-02-12 22:19:52,495 - INFO - Transformando dados para o filme: Avatar
+2025-02-12 22:19:52,495 - INFO - Transformação concluída.
+2025-02-12 22:19:52,496 - INFO - Filme 'Avatar' processado e salvo com sucesso.
+2025-02-12 22:19:52,496 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,496 - INFO - Buscando dados para o filme: Jaws
+2025-02-12 22:19:52,545 - INFO - Dados extraídos com sucesso para o filme: Jaws
+2025-02-12 22:19:52,545 - INFO - Transformando dados para o filme: Jaws
+2025-02-12 22:19:52,545 - INFO - Transformação concluída.
+2025-02-12 22:19:52,546 - INFO - Filme 'Jaws' processado e salvo com sucesso.
+2025-02-12 22:19:52,546 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,546 - INFO - Buscando dados para o filme: Blade Runner
+2025-02-12 22:19:52,591 - INFO - Dados extraídos com sucesso para o filme: Blade Runner
+2025-02-12 22:19:52,591 - INFO - Transformando dados para o filme: Blade Runner
+2025-02-12 22:19:52,591 - INFO - Transformação concluída.
+2025-02-12 22:19:52,592 - INFO - Filme 'Blade Runner' processado e salvo com sucesso.
+2025-02-12 22:19:52,592 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,592 - INFO - Buscando dados para o filme: 12 Angry Men
+2025-02-12 22:19:52,640 - INFO - Dados extraídos com sucesso para o filme: 12 Angry Men
+2025-02-12 22:19:52,641 - INFO - Transformando dados para o filme: 12 Angry Men
+2025-02-12 22:19:52,641 - INFO - Transformação concluída.
+2025-02-12 22:19:52,642 - INFO - Filme '12 Angry Men' processado e salvo com sucesso.
+2025-02-12 22:19:52,642 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,642 - INFO - Buscando dados para o filme: The Matrix Reloaded
+2025-02-12 22:19:52,713 - INFO - Dados extraídos com sucesso para o filme: The Matrix Reloaded
+2025-02-12 22:19:52,713 - INFO - Transformando dados para o filme: The Matrix Reloaded
+2025-02-12 22:19:52,713 - INFO - Transformação concluída.
+2025-02-12 22:19:52,714 - INFO - Filme 'The Matrix Reloaded' processado e salvo com sucesso.
+2025-02-12 22:19:52,714 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,714 - INFO - Buscando dados para o filme: The Truman Show
+2025-02-12 22:19:52,756 - INFO - Dados extraídos com sucesso para o filme: The Truman Show
+2025-02-12 22:19:52,756 - INFO - Transformando dados para o filme: The Truman Show
+2025-02-12 22:19:52,756 - INFO - Transformação concluída.
+2025-02-12 22:19:52,757 - INFO - Filme 'The Truman Show' processado e salvo com sucesso.
+2025-02-12 22:19:52,757 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,757 - INFO - Buscando dados para o filme: The Godfather: Part III
+2025-02-12 22:19:52,796 - INFO - Dados extraídos com sucesso para o filme: The Godfather: Part III
+2025-02-12 22:19:52,796 - INFO - Transformando dados para o filme: The Godfather Part III
+2025-02-12 22:19:52,796 - INFO - Transformação concluída.
+2025-02-12 22:19:52,797 - INFO - Filme 'The Godfather: Part III' processado e salvo com sucesso.
+2025-02-12 22:19:52,797 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,797 - INFO - Buscando dados para o filme: The Big Lebowski
+2025-02-12 22:19:52,849 - INFO - Dados extraídos com sucesso para o filme: The Big Lebowski
+2025-02-12 22:19:52,849 - INFO - Transformando dados para o filme: The Big Lebowski
+2025-02-12 22:19:52,849 - INFO - Transformação concluída.
+2025-02-12 22:19:52,850 - INFO - Filme 'The Big Lebowski' processado e salvo com sucesso.
+2025-02-12 22:19:52,850 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,850 - INFO - Buscando dados para o filme: A Clockwork Orange
+2025-02-12 22:19:52,909 - INFO - Dados extraídos com sucesso para o filme: A Clockwork Orange
+2025-02-12 22:19:52,909 - INFO - Transformando dados para o filme: A Clockwork Orange
+2025-02-12 22:19:52,909 - INFO - Transformação concluída.
+2025-02-12 22:19:52,910 - INFO - Filme 'A Clockwork Orange' processado e salvo com sucesso.
+2025-02-12 22:19:52,910 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,910 - INFO - Buscando dados para o filme: Gone with the Wind
+2025-02-12 22:19:52,958 - INFO - Dados extraídos com sucesso para o filme: Gone with the Wind
+2025-02-12 22:19:52,959 - INFO - Transformando dados para o filme: Gone with the Wind
+2025-02-12 22:19:52,959 - INFO - Transformação concluída.
+2025-02-12 22:19:52,959 - INFO - Filme 'Gone with the Wind' processado e salvo com sucesso.
+2025-02-12 22:19:52,959 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:52,959 - INFO - Buscando dados para o filme: The Princess Bride
+2025-02-12 22:19:52,999 - INFO - Dados extraídos com sucesso para o filme: The Princess Bride
+2025-02-12 22:19:52,999 - INFO - Transformando dados para o filme: The Princess Bride
+2025-02-12 22:19:52,999 - INFO - Transformação concluída.
+2025-02-12 22:19:53,000 - INFO - Filme 'The Princess Bride' processado e salvo com sucesso.
+2025-02-12 22:19:53,000 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:53,000 - INFO - Buscando dados para o filme: The Breakfast Club
+2025-02-12 22:19:53,043 - INFO - Dados extraídos com sucesso para o filme: The Breakfast Club
+2025-02-12 22:19:53,043 - INFO - Transformando dados para o filme: The Breakfast Club
+2025-02-12 22:19:53,043 - INFO - Transformação concluída.
+2025-02-12 22:19:53,044 - INFO - Filme 'The Breakfast Club' processado e salvo com sucesso.
+2025-02-12 22:19:53,044 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:53,045 - INFO - Buscando dados para o filme: The Grand Budapest Hotel
+2025-02-12 22:19:53,108 - INFO - Dados extraídos com sucesso para o filme: The Grand Budapest Hotel
+2025-02-12 22:19:53,108 - INFO - Transformando dados para o filme: The Grand Budapest Hotel
+2025-02-12 22:19:53,108 - INFO - Transformação concluída.
+2025-02-12 22:19:53,109 - INFO - Filme 'The Grand Budapest Hotel' processado e salvo com sucesso.
+2025-02-12 22:19:53,109 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:53,109 - INFO - Buscando dados para o filme: Mad Max: Fury Road
+2025-02-12 22:19:53,156 - INFO - Dados extraídos com sucesso para o filme: Mad Max: Fury Road
+2025-02-12 22:19:53,157 - INFO - Transformando dados para o filme: Mad Max: Fury Road
+2025-02-12 22:19:53,157 - INFO - Transformação concluída.
+2025-02-12 22:19:53,158 - INFO - Filme 'Mad Max: Fury Road' processado e salvo com sucesso.
+2025-02-12 22:19:53,158 - INFO - Pipeline ETL finalizado.
+2025-02-12 22:19:53,158 - INFO - Buscando dados para o filme: The TerminatorAbacate
+2025-02-12 22:19:53,512 - WARNING - Erro na resposta da API: Movie not found!
+2025-02-12 22:19:53,512 - WARNING - Nenhum dado válido retornado para o filme 'The TerminatorAbacate'.
+2025-02-12 22:19:53,512 - INFO - Pipeline ETL finalizado.
